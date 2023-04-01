@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContacForm</string>
+    <string name="next">Guardar Datos</string>
+    <string name="tituloPantalla2">DATOS DEL USUARIO</string>
+    <string name="nombre">Luis Ag W</string>
+    <string name="telefono">5555522222</string>
+    <string name="correo">luis@google.com</string>
+
+</resources>
